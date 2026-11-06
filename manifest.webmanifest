@@ -1,0 +1,11 @@
+{
+  "name": "Mein Fitnessstudio",
+  "short_name": "Fitnessstudio",
+  "description": "Trainingspläne und Trainingsverlauf – auch offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#1766c2",
+  "icons": [{"src":"fitness-icon.png","sizes":"any","type":"image/png","purpose":"any"}]
+}
